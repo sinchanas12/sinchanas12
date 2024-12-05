@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sinchana S @ https://github.com/sinchanas12
-- 👀 I’m interested in Wed designing and Web development 
+- 👀 I’m interested in Data Analyzing and Wed designing and development 
 - 🌱 I’m currently learning Full stack Web development in JAVA and UI/UX designing 
 - 📫 How to reach me @ www.linkedin.com/in/sinchanas12 @ sinchanas12345@gmail.com
 
